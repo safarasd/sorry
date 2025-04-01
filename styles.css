@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: bisque;
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+h1 {
+  color: red;
+}
+.special {
+  font-size: 50px;
+}
+img {
+  height: 300px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+}
